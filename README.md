@@ -1,3 +1,5 @@
+> 🇬🇧 **English version:** [README_EN.md](./README_EN.md)
+
 # Interpretation Contract
 
 ## Version française de travail
