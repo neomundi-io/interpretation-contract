@@ -1,3 +1,5 @@
+> 🇫🇷 **French version:** [README.md](./README.md)
+
 # Interpretation Contract
 
 ## Working English Version
